@@ -1,0 +1,1 @@
+# terraform-azurerm-allowed-location-policy-AZ
